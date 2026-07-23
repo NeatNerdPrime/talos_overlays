@@ -1,3 +1,45 @@
+## [overlays 1.14.0-beta.0](https://github.com/siderolabs/overlays/releases/tag/v1.14.0-beta.0) (2026-07-23)
+
+Welcome to the v1.14.0-beta.0 release of overlays!  
+*This is a pre-release of overlays*
+
+
+
+Please try out the release binaries and report any issues at
+https://github.com/siderolabs/overlays/issues.
+
+### Contributors
+
+* Andrey Smirnov
+* Maja Bojarska
+* Mateusz Urbanek
+
+### Changes
+<details><summary>5 commits</summary>
+<p>
+
+* [`3e0ce53`](https://github.com/siderolabs/overlays/commit/3e0ce5319bd156de1b8f04576be8ff714b92f45f) chore: rekres
+* [`5802fa3`](https://github.com/siderolabs/overlays/commit/5802fa3e3de6691ef3c979feb0f2f201decaaf97) release(v1.14.0-alpha.2): prepare release
+* [`fcc20d3`](https://github.com/siderolabs/overlays/commit/fcc20d3a17ad76f726a1200c080a395d8cec8c52) fix: image-signer depends on _out dir
+* [`8348e2f`](https://github.com/siderolabs/overlays/commit/8348e2fcde307d0614bf7fc0d8b8c13affa7653d) release(v1.14.0-alpha.1): prepare release
+* [`ee045df`](https://github.com/siderolabs/overlays/commit/ee045dfbda76b5243eb1ed2f7d623293800f4359) release(v1.14.0-alpha.0): prepare release
+</p>
+</details>
+
+### Changes since v1.14.0-alpha.2
+<details><summary>1 commit</summary>
+<p>
+
+* [`3e0ce53`](https://github.com/siderolabs/overlays/commit/3e0ce5319bd156de1b8f04576be8ff714b92f45f) chore: rekres
+</p>
+</details>
+
+### Dependency Changes
+
+This release has no dependency changes
+
+Previous release can be found at [v1.13.0](https://github.com/siderolabs/overlays/releases/tag/v1.13.0)
+
 ## [overlays 1.14.0-alpha.2](https://github.com/siderolabs/overlays/releases/tag/v1.14.0-alpha.2) (2026-06-26)
 
 Welcome to the v1.14.0-alpha.2 release of overlays!  
